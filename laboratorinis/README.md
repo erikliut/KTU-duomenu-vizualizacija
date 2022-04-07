@@ -26,7 +26,7 @@ Išvados:
 
 Atsakymas:
 
-![apdraustieji](img/3uzd.png)
+![apdrausti](img/3uzd.png)
 
 Išvados:
 
@@ -35,4 +35,4 @@ Išvados:
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app1](img/shinyapp.png) 
+![shiny](img/4uzd.png) 
